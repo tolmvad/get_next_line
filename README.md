@@ -1,8 +1,7 @@
 ![eng](img/eng.png) [![ru](img/ru.png)](README.ru.md)
 # `get_next_line`
 
-Project in school 42. The purpose of this project is to write own function that replicates the behaviour of the standard function С `getline()`.<br>
-You can read task: [`get_next_line.subject.pdf`](subject/get_next_line.subject.pdf)
+Project in school 42. The purpose of this project is to write own function that replicates the behaviour of the standard function С `getline()`.
 
 ### Discription
 Prototype of the function looks like:
